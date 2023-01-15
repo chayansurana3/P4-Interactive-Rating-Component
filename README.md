@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/chayansurana3/P4-Interactive-Rating-Component.git)
-- Live Site URL: [Add live site URL here](https://chayansurana3.github.io/P4-Interactive-Rating-Component/)
+- Solution URL: [Solution URL](https://github.com/chayansurana3/P4-Interactive-Rating-Component.git)
+- Live Site URL: [Live Site URL](https://chayansurana3.github.io/P4-Interactive-Rating-Component/)
 
 ## My process
 

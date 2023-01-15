@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](./Screenshot1.jpg)
-![ScreenShot](./Screenshot2.jpg)
+![ScreenShot](./Screenshot1.png)
+![ScreenShot](./Screenshot2.png)
 
 ### Links
 
